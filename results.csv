@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"When completing a task","Active tasks should not show completed tasks","SUCCESS","2022-09-08T15:54:09.615891118Z[Etc/UTC]","0.0","32.56"
+"When deleting a task","Deleted items should dissapear from the list","SUCCESS","2022-09-08T15:54:09.66011888Z[Etc/UTC]","0.0","30.67"
+"When adding tasks","Adding multiple tasks","SUCCESS","2022-09-08T15:54:09.947387132Z[Etc/UTC]","0.0","31.23"
+"When adding tasks","Adding a single task","SUCCESS","2022-09-08T15:54:41.810329598Z[Etc/UTC]","0.0","3.14"
+"When completing a task","Completed tasks should not show active tasks","SUCCESS","2022-09-08T15:54:42.637670665Z[Etc/UTC]","0.0","4.24"
+"When filtering tasks","Should show correctly filtered items","SUCCESS","2022-09-08T15:54:45.825035663Z[Etc/UTC]","0.0","87.69"
